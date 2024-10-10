@@ -1,1 +1,2 @@
 Nombre="Andrea"
+print(nombre)
